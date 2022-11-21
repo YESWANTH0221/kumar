@@ -7,6 +7,7 @@ System.out.println("person age is"+age);
 
 short carnum=1180;
 System.out.println("person carnum is+carnum");
+
 System.out.println("hi");
 
 int pincode=600069;
